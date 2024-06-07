@@ -1,0 +1,27 @@
+:root {
+    --primary: #00D8FF;
+    --white: #ffffff;
+    --black: black;
+    --bg: rgb(22, 22, 36);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* fonts */
+}
+
+
+a {
+    text-decoration: none;
+    color: var(--white);
+}
+
+.black {
+    color: var(--black);
+}
+
+p {
+    color: var(--black);
+}
